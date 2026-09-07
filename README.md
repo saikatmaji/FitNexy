@@ -15,3 +15,14 @@ FitNexy is a modern and responsive gym training web app designed for exploring w
 ![Screenshot]()
 
 ---
+
+## 📌 Features
+
+- 💪 Workout Exploration – Explore different workouts and exercises based on your fitness goals.
+- 🎯 Muscle Targeting – Find exercises focused on specific muscle groups.
+- 🏋️ Exercise Details – View useful information about different exercises and training routines.
+- 📱 Responsive Design – Optimized for desktop, tablet, and mobile devices.
+- 🎨 Modern UI – Clean and engaging interface designed for a better workout experience.
+- 🔥 Fitness Routine – Helps users stay consistent and organized with their training.
+
+---
