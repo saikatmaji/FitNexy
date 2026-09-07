@@ -37,3 +37,33 @@ FitNexy is a modern and responsive gym training web app designed for exploring w
 - Vite – Fast frontend build tool and development environment.
 
 ---
+
+## 🧑‍💻 Developer
+
+<p>
+Saikat Maji
+<br>
+🌟 Full Stack Developer | Tech Explorer | Passionate Builder
+<br>
+🔗
+<a href="https://github.com/saikatmaji">GitHub</a> |
+<a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a> |
+<a href="https://x.com/saikat__maji">X</a>
+</p>
+
+---
+
+## ⭐ Show Your Support!
+
+- Star this repo
+- Fork it
+- Contribute
+- Share on social media
+
+---
+
+## 🧾 License
+
+This project is for educational and portfolio purposes only.  
+
+---
