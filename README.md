@@ -12,7 +12,7 @@ FitNexy is a modern and responsive gym training web app designed for exploring w
 
 ## 📸 Screenshots
 
-![Screenshot]()
+![Screenshot](./public/screenshot1.png)
 
 ---
 
