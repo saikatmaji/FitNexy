@@ -29,6 +29,7 @@ FitNexy is a modern and responsive gym training web app designed for exploring w
 - 🎨 Modern UI – Clean and engaging interface designed for a better workout experience.
 - 🔥 Fitness Routine – Helps users stay consistent and organized with their training.
 - 🧩 Reusable Components – Built with reusable React components for maintainable code.
+- ⚡ Fast Performance – Developed with React and Vite for a smooth user experience.
 
 ---
 
